@@ -20,7 +20,7 @@ def printOneToTenThenDelete():
     x += []
     
 
-    
+    print(x)    
     return x
 
 result = printOneToThenThenDelete()
