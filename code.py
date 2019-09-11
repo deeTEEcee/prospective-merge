@@ -13,6 +13,8 @@ def printOneToTenThenDelete():
     x += [4,5,6]
     x += [7,8,9]
     
+
+    
     return x
 
 result = printOneToThenThenDelete()
